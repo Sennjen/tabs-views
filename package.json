@@ -1,0 +1,17 @@
+{
+  "name": "table-view",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sennjen/tabs-views.git"
+  },
+  "author": "Eugen Dzubenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sennjen/tabs-views/issues"
+  },
+  "homepage": "https://github.com/Sennjen/tabs-views#readme"
+}
