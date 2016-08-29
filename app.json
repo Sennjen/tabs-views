@@ -1,6 +1,7 @@
 {
   "name": "tabs-views",
   "scripts": {
+    "start": "node node_modules/http-server/bin/http-server"
   },
   "env": {
   },
