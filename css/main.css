@@ -5,7 +5,44 @@ td,th{
     border-radius:0;
     border-right: 1px solid #d0d0d0;
 }
+td[data-modal="true"]{
+    cursor: pointer;
+}
 td:last-child,th:last-child{
     border:none;
 }
 .header_cells{}
+#nav-mobile li span, #dropdown1 li a{
+    text-transform: capitalize;
+}
+.slider {
+    width:420px;
+    margin: 0 auto;
+}
+.slider ul {
+    list-style: none outside none;
+    padding-left: 0;
+    margin-bottom:0;
+}
+.slider li {
+    display: block;
+    float: left;
+    margin-right: 6px;
+    cursor:pointer;
+}
+.slider img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+.links-container span{
+    display: block;
+    width: 100%;
+}
+.links-container a{
+    display: block;
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    cursor: pointer;
+}
